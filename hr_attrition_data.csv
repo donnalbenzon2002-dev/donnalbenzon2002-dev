@@ -1,0 +1,11 @@
+department,age_group,left_company,employees,attrition_rate
+Sales,18-25,1,40,0.025
+Sales,26-35,0,62,0.0
+Sales,36-45,1,28,0.036
+Tech,18-25,0,55,0.0
+Tech,26-35,1,70,0.014
+Tech,36-45,0,33,0.0
+Ops,18-25,1,48,0.021
+Ops,26-35,0,66,0.0
+Ops,36-45,0,31,0.0
+Ops,46+,1,19,0.053
