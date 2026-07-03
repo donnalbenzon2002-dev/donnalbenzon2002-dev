@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**donnalbenzon2002-dev/donnalbenzon2002-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Donnal Benzon Portfolio
+This repository contains my data analyst portfolio site.
+Live site
+Enable GitHub Pages on the  main  branch after pushing this repo.
+Contents
+•	 index.html  - portfolio homepage
+•	 assets/  - add screenshots, charts, and project visuals here
+•	 projects/  - add project CSVs, notebooks, and write-ups here
+Notes
+This portfolio is designed for data analyst, reporting analyst, BI analyst, and junior data engineer roles.
